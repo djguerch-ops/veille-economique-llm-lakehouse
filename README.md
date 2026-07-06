@@ -272,7 +272,7 @@ Distribution :  5 articles — score moyen 6.40
 
 Le dashboard Power BI est connecté en **DirectQuery** sur les 5 tables Gold.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/Dashbord.png)
 
 **Visuels disponibles :**
 
